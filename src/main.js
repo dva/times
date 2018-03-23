@@ -1,4 +1,5 @@
-import * as debug from './debug'
 import './hmr'
 
-debug.inform('test')
+const times = Date.now()
+
+document.getElementById('root').textContent = times

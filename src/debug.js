@@ -1,3 +1,3 @@
 export function inform (message) {
-  console.info(`%c[DEBUG]: ${message}`, 'color: green')
+  console.info(`%c[INFO]: ${message}`, 'color: green')
 }
