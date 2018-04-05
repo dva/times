@@ -8,7 +8,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build index.html --public-url ./"
+    "build": "parcel build index.html --public-url ./",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
   },
   "dependencies": {
     "normalize.css": "^8.0.0"
