@@ -60,3 +60,5 @@ typings/
 # Parcel related files
 dist/
 .cache/
+
+.now
