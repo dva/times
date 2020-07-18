@@ -14,10 +14,10 @@
     "lint:fix": "standard --fix"
   },
   "dependencies": {
-    "sanitize.css": "^11.0.0"
+    "sanitize.css": "^11.0.1"
   },
   "devDependencies": {
     "parcel": "^1.12.4",
-    "standard": "^14.3.3"
+    "standard": "^14.3.4"
   }
 }
